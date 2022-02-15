@@ -34,6 +34,7 @@
         android:text="Provide your account's email for which you want to reset your password"
         android:textAlignment="center"
         android:textColor="#0B0B0B"
+        android:textColorHint="#00B7C625"
         android:textSize="18sp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="35dp"
@@ -68,7 +69,7 @@
         android:textColor="#090909"
         android:textSize="18sp"
         android:textStyle="bold"
-        app:backgroundTint="#FFEB3B"
+        app:backgroundTint="#E8D424"
         tools:layout_editor_absoluteX="42dp"
         tools:layout_editor_absoluteY="564dp" />
 
